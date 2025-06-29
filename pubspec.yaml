@@ -1,0 +1,5 @@
+name: flutterrobot_hw
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+dependencies:
+  word_generator: ^0.5.0
